@@ -1,2 +1,13 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */td{
+	padding:10px;
+}
+th{
+	background-color: black;
+	color: white;
+}
+#total{
+font-monospace: end;
+	
+	
+}
